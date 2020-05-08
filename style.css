@@ -1,0 +1,299 @@
+
+  /* <!-- start bar --> */
+.first{
+  width: 100%;
+  height: 50px;
+  background-color:#2755E9;
+  line-height: 40px;
+  }
+  .second{
+    width: 300px;
+    height: 40px;
+    margin-top: 5px;
+    margin-left: 50px;
+    display: inline-block;
+  } 
+  .secon{
+    width: 580px;
+    height: 40px;
+    display: inline-block;
+    text-align: center;
+    color: white;
+  } .seco{
+    width: 350px;
+    height: 40px;
+    display: inline-block;
+    margin-left: 30px;
+}
+  .third{
+  width: 80px;
+  color: black;
+  padding: 7px;  
+  } 
+      .fa {
+      margin: -60px;  
+      margin-left: 90px;
+      color: white;
+    }  
+    .fa:hover {
+        opacity: 0.7;
+    }   
+    .fa-facebook {       
+      color: white;
+    }
+    .fa-twitter {
+      color:  white;
+    }
+    .fa-youtube {       
+      color: white;
+    }
+    .fa-instagram {
+      color: white;
+    }
+    .fa-whatsapp {
+        color: white;
+    }
+    .mySlides {display:none;
+}
+
+
+
+/* ICON BAR */
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+nav{
+    width: 100%;
+    height: 80px;
+    background-color:white;
+    line-height: 80px;
+}
+nav ul li{
+    list-style-type:  none;
+    display: inline-block;
+} 
+nav ul li:hover {
+    background-color: blue;
+    transition: 0.8s a;
+}
+nav ul{
+    float: right;
+    margin-right: 120px;
+}
+nav ul li a{
+    text-decoration: none;
+    color: black;
+    padding: 15px;  
+} 
+nav img{
+    margin-left: 100px;
+    width: 190px;
+}
+/* slider */
+* {box-sizing: border-box}
+body {font-family: Verdana, sans-serif; margin:0}
+.mySlides {display: none}
+img {vertical-align: middle;}
+.imgn{
+max-width: 10000px;
+}
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  padding: 16px;
+  margin-top: -22px;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+}
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+.prev:hover, .next:hover {
+  background-color: rgba(0,0,0,0.8);
+}
+/* nav */
+.na{
+background-color: #316DD9;
+
+  width: 80%;
+  height: 29px;
+  margin-left: 110px;
+}
+
+
+
+/* Introduction */
+.head{
+  color:#316DD9;
+}.headd{
+  color:green;
+}
+.just{
+  text-align: justify;
+   visibility: disabled;
+    width: 1000px;
+    height: 100px;
+    margin-left: 150px;
+    line-height: 1.9;
+    font-size: 15px;
+    opacity: 0.5;
+  }
+  .jut{
+  text-align: center;
+  }
+.ign{
+  margin-left: 650px;
+}
+/* rate */
+  .mainn{
+    width: 100%;
+    height: 60vh;
+}
+.naav{
+  width: 100%;
+    height: 300px;
+    background-color:#2755E9;
+    line-height: 30px;
+}
+.lli{
+    display: inline-block;
+} 
+.ull{
+    margin-left: 120px;
+}
+.aa{
+    color: wheat;
+    padding: 60px;
+    margin-left: 10px;
+} 
+.aaa{
+  color: white;
+  margin-left: 35px;
+}
+/* we are doing */
+.doing{
+width: 100%;
+height: 700px;
+/* background-color: lawngreen; */
+}
+.doi{
+  display: inline-block;
+  width: 20%;
+  height: 200px;
+  margin-left: 125px;
+  padding-top: 60px;
+  text-align: center;
+  color: #316DD9;
+}
+/* mission */
+.miss{
+  width: 100%;
+  height: 400px;
+  margin-top: -100px;
+}
+  .misss
+  {
+width: 50%;
+height: 300px;
+display: inline-block;
+margin-left: 170px;
+  }
+  .missss
+  {
+width: 25%;
+height: 300px;
+display: inline-block;
+margin-left: 20px;
+opacity: 0.5;
+  }
+  .ms{
+width:300px;
+height: 100px;
+    display: inline-block;
+    color: #316DD9;
+    padding-top: 20px;
+  }
+  .misssss
+  {
+width: 90px;
+height: 200px;
+  }
+/* image */
+.imag{
+  width: 100%;
+  height: 70vh;
+  margin-top:-20 ;
+  text-align: center;
+}.imagg{
+  text-align: center;
+}
+.imagul
+{
+display: inline-block;
+margin-left: 3000px;
+margin: -2px;
+}
+/* footer
+ */
+ .fot{
+  width: 100%;
+  height: 450px;
+  background-color: #25272E;
+  color: white;
+  padding:100px;
+ }
+ .aaaa{
+  color: white;
+  padding: 30px;
+} 
+.lliii{
+  display: inline-block;
+  margin-left: 0px;
+} .fottt{
+  display: inline-block;
+} 
+.neww{
+  padding: 50px;
+}
+.newww{
+  margin-bottom: 10px;
+   margin-left: 42px;
+   color: green;
+  }
+  .cool{
+    color: gray;
+  }
+  .cont{
+    margin-left: 90px;
+    margin-bottom: 20px;
+  }
+  .ulink{
+    margin-bottom: 10px;
+  }
+  .stop{
+    color: gray;
+  }
+  /* copyright */
+  .say{
+   width: 100%;
+   height: 40px;
+   background-color: #316DD9;
+
+  }
+  .sayy{
+   color: white;
+   margin-left: 100px;
+   line-height:40px;
+
+  }
+ 
+  
